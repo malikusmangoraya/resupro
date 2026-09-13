@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://project.com</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://project.com/en"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://project.com/es"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://project.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://project.com"/>
+  </url>
+  <url>
+    <loc>https://project.com/about</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://project.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://project.com/es/about"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://project.com/fr/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://project.com/about"/>
+  </url>
+  <url>
+    <loc>https://project.com/services</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://project.com/en/services"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://project.com/es/services"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://project.com/fr/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://project.com/services"/>
+  </url>
+  <url>
+    <loc>https://project.com/contact</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://project.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="es-us" href="https://project.com/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://project.com/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://project.com/contact"/>
+  </url>
+</urlset>

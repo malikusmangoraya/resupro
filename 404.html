@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Redirecting…</title>
+  <style>
+    body { margin: 0; font-family: 'Poppins', Roboto, sans-serif; background: #ffffff; color: #475569; display: grid; place-items: center; min-height: 100vh; text-align: center; }
+    a { color: #2563eb; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1 style="color:#1e3a5f">Taking you home…</h1>
+    <p><a href="./">Open resupro</a></p>
+  </main>
+  <script>
+    (function () {
+      var s = document.currentScript || document.scripts[document.scripts.length - 1];
+      var here = s.getAttribute('data-here') || window.location.href;
+      var path = here.replace(/^[^/]+\/\//, '');
+      var segs = path.split('/').filter(Boolean);
+      segs.shift();
+      var clean = segs.join('/');
+      if (clean && clean.indexOf('.') !== -1) {
+        window.location.replace('./' + clean);
+      }
+    })();
+  </script>
+</body>
+</html>

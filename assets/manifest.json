@@ -1,0 +1,280 @@
+{
+  "generator": "lumicorepro-design-engine",
+  "project": "generated-website-009",
+  "style": "neumorphism",
+  "generated_at": "2026-09-13T13:47:29Z",
+  "license": "All assets are self-generated original vector artwork (public-domain equivalent). No stock, no scraped, and no copyrighted material.",
+  "count": 27,
+  "assets": [
+    {
+      "file": "assets/neumorphism/hero/hero-1.svg",
+      "category": "hero",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Hero",
+      "prompt": "Abstract hero for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/hero/hero-2.svg",
+      "category": "hero",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Hero",
+      "prompt": "Abstract hero for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/hero/hero-3.svg",
+      "category": "hero",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Hero",
+      "prompt": "Abstract hero for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/hero/hero-4.svg",
+      "category": "hero",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Hero",
+      "prompt": "Abstract hero for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-1.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 1",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-2.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 2",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-3.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 3",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-4.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 4",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-5.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 5",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-6.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 6",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-7.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 7",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-8.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 8",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-9.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 9",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-10.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 10",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-11.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 11",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/icons/icon-12.svg",
+      "category": "icons",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Icons Icon 12",
+      "prompt": "Abstract icons for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/backgrounds/bg-1.svg",
+      "category": "backgrounds",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Backgrounds Background 1",
+      "prompt": "Abstract backgrounds for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/backgrounds/bg-2.svg",
+      "category": "backgrounds",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Backgrounds Background 2",
+      "prompt": "Abstract backgrounds for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/backgrounds/bg-3.svg",
+      "category": "backgrounds",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Backgrounds Background 3",
+      "prompt": "Abstract backgrounds for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/illustrations/illustration-1.svg",
+      "category": "illustrations",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Illustrations Illustration 1",
+      "prompt": "Abstract illustrations for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/illustrations/illustration-2.svg",
+      "category": "illustrations",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Illustrations Illustration 2",
+      "prompt": "Abstract illustrations for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/illustrations/illustration-3.svg",
+      "category": "illustrations",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Illustrations Illustration 3",
+      "prompt": "Abstract illustrations for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/illustrations/illustration-4.svg",
+      "category": "illustrations",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Illustrations Illustration 4",
+      "prompt": "Abstract illustrations for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/illustrations/illustration-5.svg",
+      "category": "illustrations",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Illustrations Illustration 5",
+      "prompt": "Abstract illustrations for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/mockups/mockup-1.svg",
+      "category": "mockups",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Mockups UI Mockup 1",
+      "prompt": "Abstract mockups for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/mockups/mockup-2.svg",
+      "category": "mockups",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Mockups UI Mockup 2",
+      "prompt": "Abstract mockups for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    },
+    {
+      "file": "assets/neumorphism/mockups/mockup-3.svg",
+      "category": "mockups",
+      "style": "neumorphism",
+      "title": "Generated Website 009 Mockups UI Mockup 3",
+      "prompt": "Abstract mockups for a Neumorphism (Soft UI) styled website; palette #e0e5ec, #8b93a7, #a3b2e0, #e0e5ec, #e0e5ec, #d6dbe2, #3b4156, #8b93a7, #e0e5ec; soft inset/outset shadows, monochrome base, tactile depth.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": ["#e0e5ec", "#8b93a7", "#a3b2e0", "#d6dbe2", "#3b4156"],
+      "seed": 1643472111
+    }
+  ]
+}
