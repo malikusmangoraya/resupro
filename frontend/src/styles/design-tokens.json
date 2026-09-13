@@ -1,0 +1,24 @@
+{
+  "style": "consulting_pro",
+  "name": "Consulting Professional",
+  "project_name": "resupro",
+  "palette": {
+    "primary": "#2563eb",
+    "accent": "#7c3aed",
+    "heading": "#1e3a5f",
+    "navBg": "#ffffff",
+    "footerBg": "#1e293b",
+    "text": "#1e293b",
+    "muted": "#64748b",
+    "card": "#ffffff",
+    "surface": "#f8fafc",
+    "border": "#e2e8f0",
+    "bg": "#ffffff"
+  },
+  "typography": {
+    "display": "Poppins",
+    "sans": "Roboto",
+    "mono": "JetBrains Mono"
+  },
+  "theme": "light"
+}
