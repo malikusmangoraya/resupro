@@ -1,4 +1,4 @@
-@tailwind base;
+﻿@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -90,10 +90,9 @@
 }
 
 
-// Updated per review: Fix syntax and lint issues (ESLint/Prettier) so this file parses cleanly.
-
-
-// Updated per review: Fix syntax and lint issues (ESLint/Prettier) so this file parses cleanly.
-
-
-// Updated per review: Fix syntax and lint issues (ESLint/Prettier) so this file parses cleanly.
+/* 3D floating hero card */
+.hero-3d-scene { perspective: 1000px; }
+.hero-3d-card { transform-style: preserve-3d; animation: hero3d-float 6s ease-in-out infinite; transition: transform 0.25s ease-out; transform-origin: center center; }
+.hero-3d-card:hover { animation-play-state: paused; }
+@keyframes hero3d-float { 0%, 100% { transform: rotateX(2deg) rotateY(-2deg) translateZ(0); } 50% { transform: rotateX(-2deg) rotateY(2deg) translateZ(8px); } }
+@media (prefers-reduced-motion: reduce) { .hero-3d-card { animation: none !important; transform: none !important; } }

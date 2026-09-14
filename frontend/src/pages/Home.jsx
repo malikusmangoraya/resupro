@@ -71,13 +71,15 @@ export default function Home() {
                 </li>
               </ul>
             </div>
-            <div className="hidden lg:block relative">
+            <div className="hidden lg:block relative hero-3d-scene">
+              <div className="hero-3d-card">
               <img
-                src="https://images.unsplash.com/photo-1522199755839-a2bacb67c546/?auto=format&fit=crop&w=1200&q=80"
+                src="assets/portraits/hero.jpg"
                 alt="ResuPro product overview"
                 className="w-full h-96 lg:h-105 rounded-2xl object-cover shadow-2xl"
                 loading="eager"
               />
+              </div>
               <div className="absolute -bottom-6 -left-6 rounded-xl bg-white p-4 shadow-xl border border-slate-100 flex items-center gap-3">
                 <span className="h-2.5 w-2.5 rounded-full bg-emerald-400 animate-pulse" />
                 <span className="text-xs font-semibold text-slate-700">
@@ -112,7 +114,7 @@ export default function Home() {
                 </div>
                 <div className="relative mt-5 overflow-hidden rounded-lg" style={{ height: 120 }}>
                   <img
-                    src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2/?auto=format&fit=crop&w=1200&q=80"
+                    src="assets/portraits/desk.jpg"
                     alt=""
                     className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                     loading="lazy"
@@ -140,7 +142,7 @@ export default function Home() {
                 </div>
                 <div className="relative mt-5 overflow-hidden rounded-lg" style={{ height: 120 }}>
                   <img
-                    src="https://images.unsplash.com/photo-1497366216548-37526070297c/?auto=format&fit=crop&w=1200&q=80"
+                    src="assets/portraits/office.jpg"
                     alt=""
                     className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                     loading="lazy"
@@ -168,7 +170,7 @@ export default function Home() {
                 </div>
                 <div className="relative mt-5 overflow-hidden rounded-lg" style={{ height: 120 }}>
                   <img
-                    src="https://images.unsplash.com/photo-1521737711867-e3b97375f902/?auto=format&fit=crop&w=1200&q=80"
+                    src="assets/portraits/workspace.jpg"
                     alt=""
                     className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                     loading="lazy"
@@ -196,7 +198,7 @@ export default function Home() {
                 </div>
                 <div className="relative mt-5 overflow-hidden rounded-lg" style={{ height: 120 }}>
                   <img
-                    src="https://images.unsplash.com/photo-1551288049-bebda4e38f71/?auto=format&fit=crop&w=1200&q=80"
+                    src="assets/portraits/dashboard.jpg"
                     alt=""
                     className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                     loading="lazy"
@@ -209,7 +211,7 @@ export default function Home() {
               </div>
             </div>
             <img
-              src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2/?auto=format&fit=crop&w=1200&q=80"
+              src="assets/portraits/desk.jpg"
               alt="ResuPro features"
               className="w-full h-52 object-cover rounded-xl"
               loading="lazy"
@@ -262,7 +264,7 @@ export default function Home() {
           <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://images.unsplash.com/photo-1497366754035-f200968a6e72/?auto=format&fit=crop&w=1200&q=80"
+                src="assets/portraits/building.jpg"
                 alt="ResuPro platform showcase"
                 className="w-full rounded-2xl object-cover shadow-xl"
                 style={{ maxHeight: 420 }}
