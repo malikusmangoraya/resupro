@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://resupro.com/sitemap.xml
+Sitemap: https://malikusmangoraya.github.io/resupro/sitemap.xml
